@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1620857567 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\ciudad.cpp
+	"Ciudad.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1620786274 c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\ciudad.h
+
+1620920224 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\funciones.cpp
+	<iostream>
+	<clocale>
+	"Pais.h"
+	"Ciudad.h"
+	"funciones.h"
+	<cstring>
+	"Mundo.h"
+
+1620779356 c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\pais.h
+
+1620920548 c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\funciones.h
+
+1620877217 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\main.cpp
+	<iostream>
+	"Pais.h"
+	"Ciudad.h"
+	<clocale>
+	"funciones.h"
+	<cstring>
+
+1620786942 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\pais.cpp
+	"Pais.h"
+	<cstring>
+	<cstdio>
+	<iostream>
+
+1620877217 source:c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\mundo.cpp
+	"Mundo.h"
+	<iostream>
+	<clocale>
+	<cstring>
+	<cstdio>
+
+1620877217 c:\users\sole\documents\soleado\facu\utn\labo ii\archivos\tp nº2\laboratorio2-60760f01ead44cf01475e2833ecc7eb01e9bf0c1\archivos\parte 1\holamundo\mundo.h
+
